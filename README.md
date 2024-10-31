@@ -2,7 +2,7 @@
 
 **Machine Learning & Data Science Enthusiast | Dicoding Elite Reviewer | Graduate Student at Universitas Gadjah Mada**
 
-- 🌐 **GitHub**: [nahrowi-one](https://github.com/nahrowi-one)
+- 🌐 **GitHub**: [m-nahrowi](https://github.com/m-nahrowi)
 - 🎓 **Education**: D4 Teknik Informatika, Politeknik Negeri Jakarta | M.Sc. Computer Science, Universitas Gadjah Mada (ongoing)
 - 🌍 **Location**: Indonesia
 
