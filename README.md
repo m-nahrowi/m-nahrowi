@@ -10,7 +10,7 @@
 
 ## 📄 Summary
 
-I am a passionate Machine Learning and Data Science enthusiast with experience in sentiment analysis, sarcasm detection, and mobile app development. I am currently expanding my contributions as a Reviewer on Dicoding Elite for Machine Learning and Data Science paths, helping to build and grow Indonesia's tech ecosystem. With a solid background in computer science and a keen interest in AI, I am always eager to tackle new challenges and contribute to innovative projects.
+I am a passionate Machine Learning and Data Science enthusiast with experience in sentiment analysis, sarcasm detection, and mobile app development.
 
 ---
 
@@ -60,7 +60,6 @@ I am a passionate Machine Learning and Data Science enthusiast with experience i
 
 ## 🎖️ Achievements
 
-- **Dicoding Elite Reviewer**: Machine Learning and Data Science tracks
 - **Cisco Academy Scholarship**: Network Security
 - **Machine Learning Scholarship**: Dicoding
 
@@ -68,6 +67,6 @@ I am a passionate Machine Learning and Data Science enthusiast with experience i
 
 ## 📫 Contact
 
-- **Email**: nahrowi@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nahrowi-one)
+- **Email**: nahrowi.one@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhamad-nahrowi)
 - **GitHub**: [m-nahrowi](https://github.com/m-nahrowi)
