@@ -27,7 +27,7 @@ I am a passionate Machine Learning and Data Science enthusiast with experience i
 
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn, IndoBERT
 - **Data Science**: Data Cleaning, Feature Engineering, Statistical Analysis, Model Evaluation
-- **Programming**: Python, R, SQL, JavaScript, Dart (Flutter)
+- **Programming**: Python, SQL, JavaScript, Dart (Flutter)
 - **Tools**: Jupyter Notebook, Git, Docker, Pandas, NumPy
 - **Soft Skills**: Problem-solving, Communication, Teamwork, Project Management
 
